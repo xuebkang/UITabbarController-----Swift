@@ -11,7 +11,6 @@ class MainViewController: UITabBarController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-//        [self initTabBar()]
         initTabBar()
     }
     //初始化tabbar
