@@ -1,0 +1,6 @@
+module Pods_TabbarController__Swift {
+  umbrella header "Pods-TabbarController--Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
